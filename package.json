@@ -49,7 +49,7 @@
   "dependencies": {
     "globby": "^8.0.1",
     "is-text-path": "^1.0.1",
-    "p-map": "^2.0.0"
+    "p-map": "^2.1.0"
   },
   "peerDependencies": {
     "gatsby": "^2.0.0"
